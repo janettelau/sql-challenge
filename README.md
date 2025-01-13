@@ -24,7 +24,7 @@ The CSV files in the "data" folder contain the following information:
 6. Open a new **Query Tool** window and execute the queries from `data_analysis.sql` to verify the data was imported into the tables and perform the data analysis.
 
 ## Entity Relationship Diagram (ERD)
-![ERD Relationship](EmployeeSQL/Entity%20Relationship%20Diagram.png)
+![ERD Relationship](EmployeeSQL/Entity_Relationship_Diagram.png)
 
 ## Table Schema (create_tables.sql)
 This SQL script creates the six tables in the database: `departments`, `dept_emp`, `dept_manager`, `employees`, `salaries`, and `titles`. It also establishes the relationships between the tables.
